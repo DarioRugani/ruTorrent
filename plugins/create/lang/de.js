@@ -3,28 +3,28 @@
  *
  * German language file.
  *
- * Author: 
+ * Author: Dario Rugani (kontakt@rugani.de)
  */
 
- theUILang.mnu_create			= "Create Torrent...";
- theUILang.CreateNewTorrent		= "Create New Torrent";
- theUILang.SelectSource			= "Select Source";
- theUILang.TorrentProperties		= "Torrent Properties";
- theUILang.PieceSize			= "Piece size";
- theUILang.Other			= "Other";
- theUILang.StartSeeding			= "Start seeding";
- theUILang.PrivateTorrent		= "Private torrent";
- theUILang.torrentCreate		= "Create...";
- theUILang.BadTorrentData		= "You must fill all required fields!";
- theUILang.createExternalNotFound	= "Create plugin: Plugin will not work. Webserver user can't access external program";
- theUILang.incorrectDirectory		= "Incorrect directory";
- theUILang.cantExecExternal		= "Can't execute external program";
- theUILang.createConsole		= "Console";
- theUILang.createErrors			= "Errors";
- theUILang.torrentSave			= "Save";
+ theUILang.mnu_create			= "Torrent erstellen...";
+ theUILang.CreateNewTorrent		= "Neuen Torrent erstellen";
+ theUILang.SelectSource			= "Quelle auswählen";
+ theUILang.TorrentProperties		= "Torrenteigenschaften";
+ theUILang.PieceSize			= "Stückgröße";
+ theUILang.Other			= "Sonstiges";
+ theUILang.StartSeeding			= "Seeden starten";
+ theUILang.PrivateTorrent		= "Privater Torrent";
+ theUILang.torrentCreate		= "Erstellen...";
+ theUILang.BadTorrentData		= "Sie müssen alle Pflichtfelder ausfüllen!";
+ theUILang.createExternalNotFound	= "Create plugin: Das Plugin wird nicht funktionieren. Webserver-Benutzer kann nicht auf externes Programm zugreifen.";
+ theUILang.incorrectDirectory		= "Falsches Verzeichnis";
+ theUILang.cantExecExternal		= "Externes Programm kann nicht ausgeführt werden";
+ theUILang.createConsole		= "Konsole";
+ theUILang.createErrors			= "Fehler";
+ theUILang.torrentSave			= "Speichern";
  theUILang.torrentKill			= "Stop";
- theUILang.torrentKilled		= "Process was stopped.";
- theUILang.recentTrackers		= "Recent trackers";
- theUILang.source			= "Source";
+ theUILang.torrentKilled		= "Prozess wurde gestoppt.";
+ theUILang.recentTrackers		= "Letzte Tracker";
+ theUILang.source			= "Quelle";
 
 thePlugins.get("create").langLoaded();

@@ -3,14 +3,14 @@
  *
  * German language file.
  *
- * Author: 
+ * Author: Dario Rugani (kontakt@rugani.de)
  */
 
- theUILang.feedAll		= "All torrents";
- theUILang.feedCompleted	= "Completed torrents";
- theUILang.feedDownloading	= "Downloading torrents";
- theUILang.feedActive		= "Active torrents";
- theUILang.feedInactive		= "Inactive torrents";
- theUILang.feedError		= "Error torrents";
+ theUILang.feedAll		= "Alle Torrents";
+ theUILang.feedCompleted	= "Fertige Torrents";
+ theUILang.feedDownloading	= "Ladende Torrents";
+ theUILang.feedActive		= "Aktive Torrents";
+ theUILang.feedInactive		= "Inaktive Torrents";
+ theUILang.feedError		= "Fehler Torrents";
 
 thePlugins.get("feeds").langLoaded();

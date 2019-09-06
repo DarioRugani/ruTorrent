@@ -3,10 +3,10 @@
  *
  * German language file.
  *
- * Author: 
+ * Author: Dario Rugani (kontakt@rugani.de)
  */
 
- theUILang.exsox		= "Spectrogram";
- theUILang.exSave		= "Save";
+ theUILang.exsox		= "Spektrogramm";
+ theUILang.exSave		= "Speichern";
 
 thePlugins.get("spectrogram").langLoaded();

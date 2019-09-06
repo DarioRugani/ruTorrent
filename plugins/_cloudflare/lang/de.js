@@ -2,9 +2,9 @@
  *
  * German language file.
  *
- * Author: 
+ * Author: Dario Rugani (kontakt@rugani.de)
  */
 
- theUILang.cannotLoadCloudscraper		= "_cloudflare plugin: cloudscraper module can't be loaded in Python";
+ theUILang.cannotLoadCloudscraper		= "_cloudflare Plugin: Cloudscraper-Modul kann in Python nicht geladen werden.";
 
 thePlugins.get("_cloudflare").langLoaded();
