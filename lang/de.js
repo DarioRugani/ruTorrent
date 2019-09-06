@@ -267,15 +267,15 @@ var theUILang =
  Select_all			: "Alle auswählen",
  Deselect_all			: "Alle abwählen",
  showSpeedInTitle		: "Geschwindigkeit in Titel anzeigen",
- badTempPath			: "Webserver Benutzer hat nicht read/write/execute Berechtigungen auf das tmp Verzeichnis. ruTorrent wird nicht funktionieren.",
- badTempPath2			: "rTorrent Benutzer muss have read/execute Berechtigungen auf das tmp Verzeichnis haben. ruTorrent wird nicht funktionieren.",
+ badTempPath			: "Webserver Benutzer hat keine read/write/execute Berechtigungen auf das tmp Verzeichnis. ruTorrent wird nicht funktionieren.",
+ badTempPath2			: "rTorrent Benutzer muss read/execute Berechtigungen auf das tmp Verzeichnis haben. ruTorrent wird nicht funktionieren.",
  doRandomizeHash		: "Zufälligen Info-hash für 'cross-seeding'",
  Recreate_files			: "Queue Files Recreation",
  Address			: "Addresse",
  PeerDL				: "Peer DL",
  PeerDownloaded			: "Peer ges. Download",
  Save_path			: "Speicherpfad",
- registerMagnet			: "Try to register magnet protocol handler at start",
- linkTorTorrentRestored		: "Connection to rTorrent established.",
- removeAllTegs			: "Remove all tags"
+ registerMagnet			: "Versuche Magnet-Protokoll-Handler beim Start zu registrieren.",
+ linkTorTorrentRestored		: "Verbindung zu rTorrent hergestellt.",
+ removeAllTegs			: "Alle Tags entfernen"
 };
